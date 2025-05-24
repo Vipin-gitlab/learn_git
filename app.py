@@ -1,2 +1,2 @@
-def substraction(a,b):
-    return a-b
+def substraction(a,b,C):
+    return a-b-C
